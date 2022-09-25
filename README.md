@@ -1,9 +1,9 @@
 BioTop
 Programme de Micro-Maraichage Urbain
 
-Benefits
+Benefits/
 
-Autonomie Alimentaire Urbaine
+Autonomie Alimentaire Urbaine/
 
 Recyclage des Dechets Organiques
 
