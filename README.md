@@ -11,3 +11,8 @@ Reduction de la temperature urbaine en ete, reduction des depenses energetiques 
 Stockage de l'eau de pluie, reduction des depenses de traitement de l'eau
 Sociabilite, qualite de vie
 Benefices sante: alimentation naturelle, activite physique
+Captation du carbone - Climat
+Circuit local
+Reduction des transport
+Zero emission
+Biosiversite
