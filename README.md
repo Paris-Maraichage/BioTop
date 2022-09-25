@@ -18,7 +18,7 @@ Stockage de l'eau de pluie, reduction des depenses de traitement de l'eau
 
 Sociabilite, qualite de vie
 
-Benefices sante: alimentation naturelle, activite physique
+Benefices sante: fruits et legumes, alimentation naturelle, alimentation non transformee, activite physique
 
 Captation du carbone - Climat
 
@@ -29,3 +29,13 @@ Reduction des transport
 Zero emission
 
 Biosiversite
+
+Economie
+
+Rapprochement avec la nature
+
+Education, sensibilisation
+
+Creation d'activite locale
+
+
